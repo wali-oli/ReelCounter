@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="service_desc">Detects when you scroll through reels/shorts so they can be counted. Nothing leaves your phone.</string>
+</resources>
